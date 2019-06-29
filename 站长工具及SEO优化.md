@@ -38,10 +38,14 @@
 
 ![image](https://github.com/tissues00/tissues00.me/blob/master/images/bing%E8%AE%BE%E7%BD%AE%E6%B5%81%E9%87%8F%E5%85%B3%E9%94%AE%E8%AF%8D.png)
 
-#### 5，yoastSEO检测文章可读性
+#### 5.yoastSEO检测文章可读性
 通过检测优化每篇文章的可读性，本来橙色的可读性文章都用区块编辑器重新编辑，现在网站里全部14篇文章都是绿色的，可读性较好
 
 ![image](https://github.com/tissues00/tissues00.me/blob/master/images/seo14%E7%AF%87%E5%8F%AF%E8%AF%BB%E6%80%A7%E4%BC%98%E8%89%AF.png)
+#### 6.为文章添加细化的关键词
+为文章添加相关栏目名作细化的关键词，增加可搜性和点击量，优化seo
+
+![image](https://github.com/tissues00/tissues00.me/blob/master/images/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B2%E8%B4%A7.png)
 ### 三.jetpack流量体现
 
 有图可见，6月18号开始网站的浏览量有了很大的提升，并且每天都保持在几百的水平，这是因为6月18号之前我提交了百度的sitemap，加之增加了文章、进行了其他seo优化，优化前后的对比较为强烈，优化效果较为显著
