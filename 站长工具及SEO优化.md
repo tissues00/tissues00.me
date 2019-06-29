@@ -46,6 +46,6 @@
 
 有图可见，6月18号开始网站的浏览量有了很大的提升，并且每天都保持在几百的水平，这是因为6月18号之前我提交了百度的sitemap，加之增加了文章、进行了其他seo优化，优化前后的对比较为强烈，优化效果较为显著
 
-![image](https://github.com/tissues00/tissues00.me/blob/master/images/jetpack%E6%B5%81%E9%87%8F%E7%BB%9F%E8%AE%A1.png)
+![image](https://github.com/tissues00/tissues00.me/blob/master/images/jetpack%E6%B5%81%E9%87%8F%E6%88%AA%E5%9B%BE.PNG)
 
 
