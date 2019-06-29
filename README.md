@@ -130,11 +130,19 @@ site24x7：使用site24x7中的监视器监视了网站、dns以及ssl证书，�
 
 ![image](https://github.com/tissues00/tissues00.me/blob/master/images/winscp%E7%99%BB%E5%BD%95%E6%88%90%E5%8A%9F.jpg)
 
-2. wordpress后台导出工具到本地的文件截图
+2.winSCP备份截图
+
+![image](https://github.com/tissues00/tissues00.me/blob/master/images/winscp%E5%A4%87%E4%BB%BD.PNG)
+
+3.sql备份截图
+
+![image](https://github.com/tissues00/tissues00.me/blob/master/images/sql%E5%A4%87%E4%BB%BD.PNG)
+
+![image](https://github.com/tissues00/tissues00.me/blob/master/images/sql%E5%A4%87%E4%BB%BD%E6%9C%AC%E5%9C%B0%E6%89%93%E5%BC%80.PNG)
+
+4. wordpress后台导出工具到本地的文件截图
 
 ![image](https://github.com/tissues00/tissues00.me/blob/master/images/wordpress%E5%90%8E%E5%8F%B0%E5%A4%87%E4%BB%BD.jpg)
-
-（由于我电脑的win7系统在昨天崩溃了，来不及做winscp的备份，macbook并没有winscp所以没有做到备份要求）
 
 # 站长工具及SEO优化
 ### 一.站长认证
@@ -184,7 +192,7 @@ site24x7：使用site24x7中的监视器监视了网站、dns以及ssl证书，�
 
 有图可见，6月18号开始网站的浏览量有了很大的提升，并且每天都保持在几百的水平，这是因为6月18号之前我提交了百度的sitemap，加之增加了文章、进行了其他seo优化，优化前后的对比较为强烈，优化效果较为显著
 
-![image](https://github.com/tissues00/tissues00.me/blob/master/images/jetpack%E6%B5%81%E9%87%8F%E7%BB%9F%E8%AE%A1.png)
+![image](https://github.com/tissues00/tissues00.me/blob/master/images/jetpack%E6%B5%81%E9%87%8F%E6%88%AA%E5%9B%BE.PNG)
 
 # 用户研究
 用户研究对象选取了五位网新的同学，他们对网站设计都有自己独特的见解。
